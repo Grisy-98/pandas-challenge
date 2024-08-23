@@ -6,6 +6,9 @@ From the given data, we can see that in this district, there are 39,170 students
 
 Looking at each school specifically, Bailey High School has the most amount of students as well as the greatest budget, while Holden High School has the least amount of students as well as the smallest budget. Cabera High School has the highest percent of overall passing students, but Pena High School has the highest percent of students passing math, while Thomas High School has the highest percent of students passing reading.
 
-After looking over the data, a conlusion that can be made is that charter school have a much higher percentage, almost more than 36%, of students passing overall. 
+After looking over the data, a conlusion that can be made is that charter school have a much higher percentage, almost more than 36%, of students passing overall, which can be seen on the picture below.
+![image](https://github.com/user-attachments/assets/b5bd54e4-2dd2-4ad7-aec9-9a77405e8aea)
 
-Additionally, the less money spent per student, the overall percentage of students passing increases. 
+Additionally, the less money spent per student, the overall percentage of students passing increases, as seen below.
+![image](https://github.com/user-attachments/assets/351c97b4-b298-4d9d-9015-5f61aa20e0a9)
+
